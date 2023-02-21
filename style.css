@@ -3,17 +3,8 @@
 
 * {font-family: 'Readex Pro';}
 
-{
-  margin: 0;
-  border: 0;
-  padding: 0;
-  
-}
 
- {
-  width: 70%;
-  margin: 20px;
-}
+
 
 
 header h1 {
@@ -64,10 +55,15 @@ img {
 main {
   background-color: #071b30;
   color: white;
+  margin: 0;
+  padding: 0;
 }
 
 
-
+.wrap {
+  padding: 20px;
+  margin: 20px;
+}
 
 
 .box img {
